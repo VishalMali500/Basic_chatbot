@@ -4,3 +4,6 @@ langchain
 langgraph
 langchain_community
 langchain_classic
+langchain-groq
+streamlit
+ipykernel
