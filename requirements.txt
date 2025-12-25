@@ -7,3 +7,4 @@ langchain_classic
 langchain-groq
 streamlit
 ipykernel
+langchain_text_splitters
